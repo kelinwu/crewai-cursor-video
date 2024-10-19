@@ -1,0 +1,10 @@
+# load keys in env
+python-dotenv==1.0.1
+# dataframe
+pandas==2.2.2
+# crewai to build ai agent
+crewai[tools]==0.41.1
+# agentops to trace the used prompts, messages and tokens
+agentops==0.3.4
+# youtube data api v3
+google-api-python-client==2.142.0

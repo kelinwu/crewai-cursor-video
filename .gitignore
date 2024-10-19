@@ -1,0 +1,26 @@
+# project specific
+/output
+**/output
+/runs
+**/runs
+
+# general
+/old
+**/old
+/data
+**/data
+
+*.egg-info
+
+.idea
+**/.idea
+
+.vscode
+**/.vscode
+
+__pycache__
+**/__pycache__
+
+*.pyc
+
+.env
